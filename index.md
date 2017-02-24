@@ -26,7 +26,7 @@ Intern, LiveLabs in Singapore Management University ( Jan 2017 ~ Feb 2017 )
 
 Intern, Korea Electronics Technology Institute (Jun 2016 - Aug 2016)
 
-Undergraduated Intern, AEIS Laboratory (Jan 2016 ~ Feb 2017)
+Intern, AEIS Laboratory (Jan 2016 ~ Feb 2017)
 
 ## Conference Papers
 
