@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-I received My Bachelors in Engineering (B.Eng.) degree in Software and Computer Engineering from Ajou University in 2017. I am a member of AEIS Lab from Jan 2016. 
+I received My B.S. degree in Software and Computer Engineering from Ajou University in 2017. I am a member of AEIS Lab from Jan 2016. 
 
 ## Research Interests
 
