@@ -30,11 +30,11 @@ Undergraduated Intern, AEIS Laboratory (Jan 2016 ~ Feb 2017)
 
 ## Conference Papers
 
-* Ho-Kyeong Ra, **Jungmo Ahn**, Hee Jung Yoon, Dukyong Yoon, Sang Hyuk Son, JeongGil Ko. "I am a Smartwatch, Smart Enough to Know the Accuracy of My Own Heart Rate Sensor", ACM International Workshop on Mobile Computing Systems and Applications (ACM HotMobile) 2017, Sonoma CA.[[slides]](https://github.com/Jungmo/jungmo.github.io/raw/gh-pages/slides/HotMoblie2017_JM.pptx)
+* Ho-Kyeong Ra, **Jungmo Ahn**, Hee Jung Yoon, Dukyong Yoon, Sang Hyuk Son, JeongGil Ko. "I am a Smartwatch, Smart Enough to Know the Accuracy of My Own Heart Rate Sensor", *ACM International Workshop on Mobile Computing Systems and Applications (ACM HotMobile) 2017, Sonoma CA.*[[slides]](https://github.com/Jungmo/jungmo.github.io/raw/gh-pages/slides/HotMoblie2017_JM.pptx)
 
 ## Demo/Posters
 
-* Ho-Kyeong Ra, Jungmo Ahn, Hee Jung Yoon, JeongGil Ko, and Sang Hyuk Son. "Poster Abstract: Accurately Measuring Heart Rate Using Smart Watch.", *ACM Conference on Embedded Networked Sensor Systems (SenSys), CA, USA, Nov. 2016.*
+* Ho-Kyeong Ra, **Jungmo Ahn**, Hee Jung Yoon, JeongGil Ko, and Sang Hyuk Son. "Poster Abstract: Accurately Measuring Heart Rate Using Smart Watch.", *ACM Conference on Embedded Networked Sensor Systems (SenSys), CA, USA, Nov. 2016.*
 * Ho-Kyeong Ra, **Jungmo Ahn**, Hee Jung Yoon, JeongGil Ko, Sang Hyuk Son. "Accurately Measuring Heart Rate using Smart Watches", *IEEE International Conference on Embedded Real-time Computing Systems and Applications (IEEE RTCSA) 2016, WiP, Daegu, Korea.*
 * **Jungmo Ahn**, Jeongyeup Paek JeongGil Ko. "Machine-learning-based Image Classification for Wireless Camera Sensor Networks", *IEEE International Conference on Embedded Real-time Computing Systems and Applications (IEEE RTCSA) 2016, WiP, Daegu, Korea.*
 
