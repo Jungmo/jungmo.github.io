@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-I graduated from the B.S. degree in the department of Computer Science at Ajou University in 2017. I have been a member of AEIS Lab since Jan 2016. 
+I received My B.S. degree in Software and Computer Engineering from Ajou University in 2017. I am a member of AEIS Lab from Jan 2016. 
 
 ## Research Interests
 
@@ -26,7 +26,7 @@ Intern, LiveLabs in Singapore Management University ( Jan 2017 ~ Feb 2017 )
 
 Intern, Korea Electronics Technology Institute (Jun 2016 - Aug 2016)
 
-Undergraduated Intern, AEIS Laboratory (Jan 2016 ~ Feb 2017)
+Intern, AEIS Laboratory (Jan 2016 ~ Feb 2017)
 
 ## Conference Papers
 
