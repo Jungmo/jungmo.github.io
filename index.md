@@ -8,7 +8,7 @@ I received My B.S. degree in Software and Computer Engineering from Ajou Univers
 
 ## Research Interests
 
-* Intelligent Medical Systems
+* Intelligent Systems
   * Medical Image Classification
 * Smart Devices and Systems
   * Smartwatch Heart Rate Sensor Classification
@@ -16,17 +16,14 @@ I received My B.S. degree in Software and Computer Engineering from Ajou Univers
   
 ## Education
 
-B.S. in Software and Computer Engineering; Ajou University (Mar 2010 ~ Feb 2017)
-
-Study for a Master's degree in Computer Engineering; Ajou University (Feb 2017 ~ ) 
+* B.S. in Software and Computer Engineering; Ajou University (Mar 2010 ~ Feb 2017)
+* Study for a Master's degree in Computer Engineering; Ajou University (Feb 2017 ~ ) 
 
 ## Career
 
-Intern, LiveLabs in Singapore Management University ( Jan 2017 ~ Feb 2017 )
-
-Intern, Korea Electronics Technology Institute (Jun 2016 - Aug 2016)
-
-Intern, AEIS Laboratory (Jan 2016 ~ Feb 2017)
+* Intern, LiveLabs in Singapore Management University ( Jan 2017 ~ Feb 2017 )
+* Intern, Korea Electronics Technology Institute (Jun 2016 - Aug 2016)
+* Intern, AEIS Laboratory (Jan 2016 ~ Feb 2017)
 
 ## Conference Papers
 
