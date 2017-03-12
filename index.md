@@ -16,8 +16,9 @@ I received My B.S. degree in Software and Computer Engineering from Ajou Univers
   
 ## Education
 
-* B.S. in Software and Computer Engineering; Ajou University (Mar 2010 ~ Feb 2017)
+
 * Study for a Master's degree in Computer Engineering; Ajou University (Feb 2017 ~ ) 
+* B.S. in Software and Computer Engineering; Ajou University (Mar 2010 ~ Feb 2017)
 
 ## Career
 
