@@ -22,6 +22,11 @@ I received My B.S. degree in Software and Computer Engineering from Ajou Univers
 * Intern, Korea Electronics Technology Institute (Jun 2016 - Aug 2016)
 * Intern, AEIS Laboratory (Jan 2016 ~ Feb 2017)
 
+## Journal Papers
+
+* **Jungmo Ahn**, Huynh Nguyen Loc, Rajesh K. Balan, Youngki Lee, JeongGil Ko. "Finding a Lesion in a Poostack: Challenges in Endoscopy Image-based Learning Systems", IEEE Computer, Special Issue on Mobile and Embedded Deep Learning, 2018. 
+* **Jungmo Ahn**, JaeYeon Park, Jeongyup Baek, JeongGil Ko. "Convolutional Neural Network-based Classification System Design with Compressed Wireless Sensor Network Images", PLOS One, 2018. 
+
 ## Conference Papers
 
 * Ho-Kyeong Ra, **Jungmo Ahn**, Hee Jung Yoon, Dukyong Yoon, Sang Hyuk Son, JeongGil Ko. "I am a Smartwatch, Smart Enough to Know the Accuracy of My Own Heart Rate Sensor", *ACM International Workshop on Mobile Computing Systems and Applications (ACM HotMobile) 2017, Sonoma CA.*[[slides]](https://github.com/Jungmo/jungmo.github.io/raw/master/slides/HotMoblie2017_JM.pdf)
