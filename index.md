@@ -16,8 +16,8 @@ I received the B.Eng. degree in software and computer engineering from Ajou Univ
   * Wearable device
   * Sensor data analysis
 * Healthcare application
-  * Bio signal analysis
-  * Predict symptoms from time-series data
+  * Bio signal analysis
+  * Predict symptoms from time-series data
   
   
 ## Education
