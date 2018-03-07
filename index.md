@@ -4,14 +4,24 @@ layout: default
 
 ## About
 
-I received My B.S. degree in Software and Computer Engineering from Ajou University in 2017. I am a member of AEIS Lab from Jan 2016. 
+I received the B.Eng. degree in software and computer engineering from Ajou University, Suwon, South Korea, in 2017. I am a Ph.D. student in the Department of Computer Engineering at Ajou University. I am also a member of the Ajou Embedded Inteligent System (AEIS) lead by Dr. JeongGil Ko. My research interests include embedded learning system, mobile computing and healthcare applications. (email: ajm100@ajou.ac.kr)
+
 
 ## Research Interests
 
 * Intelligent Systems
-* Smart Devices and Systems
+  * Embedded learning system
+  * Deep learning lightweight 
+* Mobile computing
+  * Wearable device
+  * Sensor data analysis
+* Healthcare application
+  * Bio signal analysis
+  * Predict symptoms from time-series data
+  
   
 ## Education
+
 
 * Study for a Master's degree in Computer Engineering; Ajou University (Feb 2017 ~ ) 
 * B.S. in Software and Computer Engineering; Ajou University (Mar 2010 ~ Feb 2017)
@@ -29,7 +39,7 @@ I received My B.S. degree in Software and Computer Engineering from Ajou Univers
 
 ## Conference Papers
 
-* Ho-Kyeong Ra, **Jungmo Ahn**, Hee Jung Yoon, Dukyong Yoon, Sang Hyuk Son, JeongGil Ko. "I am a Smartwatch, Smart Enough to Know the Accuracy of My Own Heart Rate Sensor", *ACM International Workshop on Mobile Computing Systems and Applications (ACM HotMobile) 2017, Sonoma CA.*[[slides]](https://github.com/Jungmo/jungmo.github.io/raw/master/slides/HotMoblie2017_JM.pdf)
+* Ho-Kyeong Ra, **Jungmo Ahn**, Hee Jung Yoon, Dukyong Yoon, Sang Hyuk Son, JeongGil Ko. "I am a Smartwatch, Smart Enough to Know the Accuracy of My Own Heart Rate Sensor", *ACM International Workshop on Mobile Computing Systems and Applications (ACM HotMobile) 2017, Sonoma CA.*[[slides]](https://github.com/Jungmo/jungmo.github.io/raw/gh-pages/slides/HotMoblie2017_JM.pdf)
 
 ## Demo/Posters
 
