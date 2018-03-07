@@ -4,15 +4,21 @@ layout: default
 
 ## About
 
-I received My B.S. degree in Software and Computer Engineering from Ajou University in 2017. I am a member of AEIS Lab from Jan 2016. 
+I received the B.Eng. degree in software and computer engineering from Ajou University, Suwon, South Korea, in 2017. I am a Ph.D. student in the Department of Computer Engineering at Ajou University. I am also a member of the Ajou Embedded Inteligent System (AEIS) lead by Dr. JeongGil Ko. My research interests include embedded learning system, mobile computing and healthcare applications. (email: ajm100@ajou.ac.kr)
+
 
 ## Research Interests
 
 * Intelligent Systems
-  * Medical Image Classification
-* Smart Devices and Systems
-  * Smartwatch Heart Rate Sensor Classification
-  * Autonomous Image Selection Scheme for Low-Power Embedded System
+  * Embedded learning system
+  * Deep learning lightweight 
+* Mobile computing
+  * Wearable device
+  * Sensor data analysis
+* Healthcare application
+  * Bio signal analysis
+  * Predict symptoms from time-series data
+  
   
 ## Education
 
