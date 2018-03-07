@@ -11,7 +11,7 @@ I received the B.Eng. degree in software and computer engineering from Ajou Univ
 
 * Intelligent Systems
   * Embedded learning system
-  * Deep learning lightweight 
+  * Deep learning lightweight 
 * Mobile computing
   * Wearable device
   * Sensor data analysis
@@ -48,4 +48,4 @@ I received the B.Eng. degree in software and computer engineering from Ajou Univ
 * **Jungmo Ahn**, Jeongyeup Paek JeongGil Ko. "Machine-learning-based Image Classification for Wireless Camera Sensor Networks", *IEEE International Conference on Embedded Real-time Computing Systems and Applications (IEEE RTCSA) 2016, WiP, Daegu, Korea.*
 
 ## Patents
-* -
+* 
