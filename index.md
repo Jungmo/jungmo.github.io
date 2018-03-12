@@ -49,3 +49,6 @@ I received the B.Eng. degree in software and computer engineering from Ajou Univ
 
 ## Patents
 * 
+
+## Miscellaneous
+* Advanced to the finals in the Naver D2 Campus Fest 2015
