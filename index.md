@@ -52,4 +52,4 @@ I received the B.Eng. degree in software and computer engineering from Ajou Univ
 고정길, 손상혁, 윤희정, 안정모, 나호경
 
 ## Awards and Honors
-* Global Ph.D. Fellowship, NRF, 2018 ~
+* Global Ph.D. Fellowship, National Research Foundation, 2018 ~
