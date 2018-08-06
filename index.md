@@ -51,6 +51,5 @@ I received the B.Eng. degree in software and computer engineering from Ajou Univ
 * 광용적맥파 센서를 이용한 심박수 측정 방법, 이를 이용하는 심박수 측정 장치 및 웨어러블 디바이스 (출원) (10-2017-0054652) - 2017.04 
 고정길, 손상혁, 윤희정, 안정모, 나호경
 
-
-## Miscellaneous
-* Advanced to the finals in the Naver D2 Campus Fest 2015
+## Awards and Honors
+* Global Ph.D. Fellowship, NRF, 2018 ~
