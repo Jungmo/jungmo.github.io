@@ -1,7 +1,7 @@
 # Site settings
 title: About
 tag_text: Jungmo Ahn
-description: C, Python, Embedded System, Image Classification, Smart Devices and whatnot..
+description: Jungmo Ahn
 
 # Build settings
 markdown: kramdown
