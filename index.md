@@ -33,7 +33,7 @@ I received the B.Eng. degree in software and computer engineering from Ajou Univ
 
 ## Journal Papers
 
-* **Jungmo Ahn**, Huynh Nguyen Loc, Rajesh K. Balan, Youngki Lee, JeongGil Ko. "Finding a Lesion in a Poostack: Challenges in Endoscopy Image-based Learning Systems", IEEE Computer, Special Issue on Mobile and Embedded Deep Learning, 2018. 
+* **Jungmo Ahn**, Huynh Nguyen Loc, Rajesh K. Balan, Youngki Lee, JeongGil Ko. "Finding Small-Bowel Lesions: Challenges in Endoscopy-Image-Based Learning Systems", IEEE Computer, Special Issue on Mobile and Embedded Deep Learning, 2018. 
 * **Jungmo Ahn**, JaeYeon Park, Donghwan Park, Jeongyeup Paek, JeongGil Ko. "Convolutional Neural Network-based Classification System Design with Compressed Wireless Sensor Network Images", PLOS One, 2018. 
 
 ## Conference Papers
