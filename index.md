@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-I received the B.Eng. degree in software and computer engineering from Ajou University, Suwon, South Korea, in 2017. I am a Ph.D. student in the Department of Computer Engineering at Ajou University. I am also a member of the Ajou Embedded Inteligent System ([AEIS](https://aeislab.ajou.ac.kr)) lead by Dr. JeongGil Ko. My research interests include embedded learning system, mobile computing and healthcare applications. (email: ajm100@ajou.ac.kr)
+I received the B.Eng. degree in software and computer engineering from Ajou University, Suwon, South Korea, in 2017. I am a Ph.D. student in the Department of Computer Engineering at Ajou University. I am also a member of the Ajou Embedded Inteligent System ([AEIS](http://aeislab.ajou.ac.kr)) lead by Dr. JeongGil Ko. My research interests include embedded learning system, mobile computing and healthcare applications. (email: ajm100@ajou.ac.kr)
 
 
 ## Research Interests
