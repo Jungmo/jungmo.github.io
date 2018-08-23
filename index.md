@@ -37,7 +37,7 @@ I received the B.Eng. degree in software and computer engineering from Ajou Univ
 * **Jungmo Ahn**, JaeYeon Park, Donghwan Park, Jeongyeup Paek, JeongGil Ko. "Convolutional Neural Network-based Classification System Design with Compressed Wireless Sensor Network Images", PLOS One, 2018. 
 
 ## Conference Papers
-* Jungmo Ahn, Hyunki Kim, Eunha Kim, JeongGil Ko. "Volatile Organic Compounds Recognition Using a Smartphone Camera and Fluorometric Sensors", International Workshop on Combining Physical and Data-Driven Knowledge in Ubiquitous Computing (CPD '18) (co-located with ACM Ubicomp) 2018. Singapore.
+* **Jungmo Ahn**, Hyunki Kim, Eunha Kim, JeongGil Ko. "Volatile Organic Compounds Recognition Using a Smartphone Camera and Fluorometric Sensors", International Workshop on Combining Physical and Data-Driven Knowledge in Ubiquitous Computing (CPD '18) (co-located with ACM Ubicomp) 2018. Singapore.
 * Ho-Kyeong Ra, **Jungmo Ahn**, Hee Jung Yoon, Dukyong Yoon, Sang Hyuk Son, JeongGil Ko. "I am a Smartwatch, Smart Enough to Know the Accuracy of My Own Heart Rate Sensor", *ACM International Workshop on Mobile Computing Systems and Applications (ACM HotMobile) 2017, Sonoma CA.*[[slides]](https://github.com/Jungmo/jungmo.github.io/raw/gh-pages/slides/HotMoblie2017_JM.pdf)
 
 ## Demo/Posters
