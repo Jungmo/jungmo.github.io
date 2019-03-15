@@ -38,7 +38,7 @@ I received the B.Eng. degree in software and computer engineering from Ajou Univ
 * **Jungmo Ahn**, JaeYeon Park, Donghwan Park, Jeongyeup Paek, JeongGil Ko. "Convolutional Neural Network-based Classification System Design with Compressed Wireless Sensor Network Images", PLOS One, 2018. 
 
 ## Conference Papers
-
+* **Jungmo Ahn**, Hyunggi Kim, Eunha Kim, JeongGil Ko. "Designing a Low-Cost IoT Sensing Platform for VOC Material Classification", *IEEE International Conference on Distributed Computing in Sensor Systems (IEEE DCOSS) 2019, Santorini Island, Greece.*
 * Ho-Kyeong Ra, **Jungmo Ahn**, Hee Jung Yoon, Dukyong Yoon, Sang Hyuk Son, JeongGil Ko. "I am a Smartwatch, Smart Enough to Know the Accuracy of My Own Heart Rate Sensor", *ACM International Workshop on Mobile Computing Systems and Applications (ACM HotMobile) 2017, Sonoma CA.*[[slides]](https://github.com/Jungmo/jungmo.github.io/raw/gh-pages/slides/HotMoblie2017_JM.pdf)
 
 ## Demo/Posters
