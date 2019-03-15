@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-I received the B.Eng. degree in software and computer engineering from Ajou University, Suwon, South Korea, in 2017. I am a Ph.D. student in the Department of Computer Engineering at Ajou University. I am also a member of the Ajou Embedded Inteligent System ([AEIS](http://aeislab.ajou.ac.kr)) lead by Dr. JeongGil Ko. My research interests include embedded learning system, mobile computing and healthcare applications. (email: ajm100@ajou.ac.kr)
+I received the B.Eng. degree in software and computer engineering from Ajou University, Suwon, South Korea, in 2017. I am a Ph.D. student in the Department of Computer Engineering at Ajou University. I am also a member of the Ajou Embedded Inteligent System (AEIS) lead by Dr. JeongGil Ko. My research interests include embedded learning system, mobile computing and healthcare applications. (email: ajm100@ajou.ac.kr)
 
 
 ## Research Interests
@@ -22,6 +22,7 @@ I received the B.Eng. degree in software and computer engineering from Ajou Univ
   
 ## Education
 
+
 * Study for a Ph.D.'s degree in Computer Engineering; Ajou University (Feb 2017 ~ ) 
 * B.S. in Software and Computer Engineering; Ajou University (Mar 2010 ~ Feb 2017)
 
@@ -33,11 +34,11 @@ I received the B.Eng. degree in software and computer engineering from Ajou Univ
 
 ## Journal Papers
 
-* **Jungmo Ahn**, Huynh Nguyen Loc, Rajesh K. Balan, Youngki Lee, JeongGil Ko. "Finding Small-Bowel Lesions: Challenges in Endoscopy-Image-Based Learning Systems", IEEE Computer, Special Issue on Mobile and Embedded Deep Learning, 2018. 
+* **Jungmo Ahn**, Huynh Nguyen Loc, Rajesh K. Balan, Youngki Lee, JeongGil Ko. "Finding a Lesion in a Poostack: Challenges in Endoscopy Image-based Learning Systems", IEEE Computer, Special Issue on Mobile and Embedded Deep Learning, 2018. 
 * **Jungmo Ahn**, JaeYeon Park, Donghwan Park, Jeongyeup Paek, JeongGil Ko. "Convolutional Neural Network-based Classification System Design with Compressed Wireless Sensor Network Images", PLOS One, 2018. 
 
 ## Conference Papers
-* **Jungmo Ahn**, Hyunki Kim, Eunha Kim, JeongGil Ko. "Volatile Organic Compounds Recognition Using a Smartphone Camera and Fluorometric Sensors", International Workshop on Combining Physical and Data-Driven Knowledge in Ubiquitous Computing (CPD '18) (co-located with ACM Ubicomp) 2018. Singapore.
+* **Jungmo Ahn**, Hyunggi Kim, Eunha Kim, JeongGil Ko. "Designing a Low-Cost IoT Sensing Platform for VOC Material Classification", *IEEE International Conference on Distributed Computing in Sensor Systems (IEEE DCOSS) 2019, Santorini Island, Greece.*
 * Ho-Kyeong Ra, **Jungmo Ahn**, Hee Jung Yoon, Dukyong Yoon, Sang Hyuk Son, JeongGil Ko. "I am a Smartwatch, Smart Enough to Know the Accuracy of My Own Heart Rate Sensor", *ACM International Workshop on Mobile Computing Systems and Applications (ACM HotMobile) 2017, Sonoma CA.*[[slides]](https://github.com/Jungmo/jungmo.github.io/raw/gh-pages/slides/HotMoblie2017_JM.pdf)
 
 ## Demo/Posters
@@ -47,8 +48,8 @@ I received the B.Eng. degree in software and computer engineering from Ajou Univ
 * **Jungmo Ahn**, Jeongyeup Paek JeongGil Ko. "Machine-learning-based Image Classification for Wireless Camera Sensor Networks", *IEEE International Conference on Embedded Real-time Computing Systems and Applications (IEEE RTCSA) 2016, WiP, Daegu, Korea.*
 
 ## Patents
-* 광용적맥파 센서를 이용한 심박수 측정 방법, 이를 이용하는 심박수 측정 장치 및 웨어러블 디바이스 (등록) (10-2017-0054652) - 2017.04 
-고정길, 손상혁, 윤희정, **안정모**, 나호경
+* 광용적맥파 센서를 이용한 심박수 측정 방법, 이를 이용하는 심박수 측정 장치 및 웨어러블 디바이스 (출원) (10-2017-0054652) - 2017.04 
+고정길, 손상혁, 윤희정, 안정모, 나호경
 
 ## Awards and Honors
-* Global Ph.D. Fellowship, National Research Foundation, 2018 ~
+* Global Ph.D. Fellowship, NRF, 2018 ~
