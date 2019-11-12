@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-I received the B.Eng. degree in software and computer engineering from Ajou University, Suwon, South Korea, in 2017. I am a Ph.D. student in the Department of Computer Engineering at Ajou University. I am also a member of the Ajou Embedded Inteligent System (AEIS) lead by Dr. JeongGil Ko. My research interests include embedded learning system, mobile computing and healthcare applications. (email: ajm100@ajou.ac.kr)
+I received the B.Eng. degree in software and computer engineering from Ajou University, Suwon, South Korea, in 2017. I am a Ph.D. student in the Department of Computer Engineering at Ajou University. I am also a member of the Embedded Inteligent System (EIS) lead by Dr. JeongGil Ko. My research interests include embedded learning system, mobile computing and healthcare applications. (email: ajm100@ajou.ac.kr)
 
 
 ## Research Interests
@@ -22,19 +22,18 @@ I received the B.Eng. degree in software and computer engineering from Ajou Univ
   
 ## Education
 
-
-* Study for a Ph.D.'s degree in Computer Engineering; Ajou University (Feb 2017 ~ ) 
+* Study for a Ph.D.'s degree in Computer Engineering; Ajou University (Feb 2017 - ) 
 * B.S. in Software and Computer Engineering; Ajou University (Mar 2010 ~ Feb 2017)
 
 ## Career
 
-* Intern, LiveLabs in Singapore Management University ( Jan 2017 ~ Feb 2017 )
+* Intern, LiveLabs in Singapore Management University ( Jan 2017 - Feb 2017 )
 * Intern, Korea Electronics Technology Institute (Jun 2016 - Aug 2016)
-* Intern, AEIS Laboratory (Jan 2016 ~ Feb 2017)
+* Intern, AEIS Laboratory (Jan 2016 - Feb 2017)
 
 ## Journal Papers
 
-* **Jungmo Ahn**, Huynh Nguyen Loc, Rajesh K. Balan, Youngki Lee, JeongGil Ko. "Finding a Lesion in a Poostack: Challenges in Endoscopy Image-based Learning Systems", IEEE Computer, Special Issue on Mobile and Embedded Deep Learning, 2018. 
+* **Jungmo Ahn**, Huynh Nguyen Loc, Rajesh K. Balan, Youngki Lee, JeongGil Ko. "Finding Small-Bowel Lesions: Challenges in Endoscopy-Image-Based Learning Systems", IEEE Computer, Special Issue on Mobile and Embedded Deep Learning, 2018. 
 * **Jungmo Ahn**, JaeYeon Park, Donghwan Park, Jeongyeup Paek, JeongGil Ko. "Convolutional Neural Network-based Classification System Design with Compressed Wireless Sensor Network Images", PLOS One, 2018. 
 
 ## Conference Papers
@@ -53,4 +52,4 @@ I received the B.Eng. degree in software and computer engineering from Ajou Univ
 고정길, 손상혁, 윤희정, 안정모, 나호경
 
 ## Awards and Honors
-* Global Ph.D. Fellowship, NRF, 2018 ~
+* Global Ph.D. Fellowship, NRF, 2018 -
