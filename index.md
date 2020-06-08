@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-I received the B.Eng. degree in software and computer engineering from Ajou University, Suwon, South Korea, in 2017. I am a Ph.D. student in the Department of Computer Engineering at Ajou University. I am a member of the Embedded Inteligent System (EIS) lead by Dr. JeongGil Ko. I am also a member of the Computer Systems Lab (CSL) lead by Dr. Jeongsub Ahn. My research interests include embedded learning system, mobile computing and healthcare applications. (email: ajm100@ajou.ac.kr)
+I received the B.Eng. degree in software and computer engineering from Ajou University, Suwon, South Korea, in 2017. I am a Ph.D. student in the Department of Computer Engineering at Ajou University. I am a member of the Embedded Inteligent System (EIS) lead by Dr. JeongGil Ko. I am also a member of the Computer Systems Lab (CSL) lead by Dr. Jeongseob Ahn. My research interests include embedded learning system, mobile computing and healthcare applications. (email: ajm100@ajou.ac.kr)
 
 
 ## Research Interests
@@ -34,8 +34,12 @@ I received the B.Eng. degree in software and computer engineering from Ajou Univ
 
 ## Journal Papers
 
-* **Jungmo Ahn**, Huynh Nguyen Loc, Rajesh K. Balan, Youngki Lee, JeongGil Ko. "Finding Small-Bowel Lesions: Challenges in Endoscopy-Image-Based Learning Systems", IEEE Computer, Special Issue on Mobile and Embedded Deep Learning, 2018. 
-* **Jungmo Ahn**, JaeYeon Park, Donghwan Park, Jeongyeup Paek, JeongGil Ko. "Convolutional Neural Network-based Classification System Design with Compressed Wireless Sensor Network Images", PLOS One, 2018. 
+* Hyungi Kim, Sang-Kee Choi, **Jungmo Ahn** (co-first author), Hojeong Yu, Kyoungha Min, Changgi Hong, Ik-Soo Shin, Sanghee Lee, Hakho Lee, Hyungsoon Im, JeongGil Ko, Eunha Kim. "Kaleidoscopic Fluorescent Arrays for High-multiplexed Point-of-Care Chemical Sensing", *Nature Communications* (Under Review)
+* **Jungmo Ahn**, Hyungi Kim, Eunha Kim, JeongGil Ko. "VOCkit: A Low-Cost IoT Sensing Platform for Volatile Organic Compound Classification", *Ad Hoc Networks* (Under Review)
+* **Jungmo Ahn**, Sung Sik Lee, Kyu-Hyuk Lee, Heesung Do, and JeongGil Ko, "SafeFac: Video-based Smart Safety Monitoring forPreventing Industrial Work Accidents", *IEEE Transactions on Systems, Man, and Cybernetics: Systems* (Under Review)
+
+* **Jungmo Ahn**, Huynh Nguyen Loc, Rajesh K. Balan, Youngki Lee, JeongGil Ko. "Finding Small-Bowel Lesions: Challenges in Endoscopy-Image-Based Learning Systems", *IEEE Computer, Special Issue on Mobile and Embedded Deep Learning*, 2018. 
+* **Jungmo Ahn**, JaeYeon Park, Donghwan Park, Jeongyeup Paek, JeongGil Ko. "Convolutional Neural Network-based Classification System Design with Compressed Wireless Sensor Network Images", *PLOS One*, 2018. 
 
 ## Conference Papers
 * **Jungmo Ahn**, Hyunggi Kim, Eunha Kim, JeongGil Ko. "Designing a Low-Cost IoT Sensing Platform for VOC Material Classification", *IEEE International Conference on Distributed Computing in Sensor Systems (IEEE DCOSS) 2019, Santorini Island, Greece.*, Selected as Fast Track Paper to Ad Hoc Networks Journal
