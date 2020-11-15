@@ -19,7 +19,7 @@ I received the B.Eng. degree in software and computer engineering from Ajou Univ
 * Healthcare application
   * Bio signal analysis
   * Predict symptoms from time-series data
-  
+  
 ## Education
 
 * Study for a Ph.D.'s degree in Computer Engineering; Ajou University (Feb 2017 - ) 
