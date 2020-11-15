@@ -4,23 +4,30 @@ layout: default
 
 ## About
 
-I received the B.Eng. degree in software and computer engineering from Ajou University, Suwon, South Korea, in 2017. I am a Ph.D. student in the Department of Computer Engineering at Ajou University. I am a member of the Embedded Inteligent System (EIS) lead by Dr. JeongGil Ko. I am also a member of the Computer Systems Lab (CSL) lead by Dr. Jeongseob Ahn. My research interests include embedded learning system, mobile computing and healthcare applications. (email: ajm100@ajou.ac.kr)
+I received the B.Eng. degree in software and computer engineering from Ajou University, Suwon, South Korea, in 2017. I am a Ph.D. student in the Department of Computer Engineering at Ajou University. I am a member of the Embedded Inteligent System (EIS) lead by Dr. JeongGil Ko. I am also a member of the Computer Systems Lab (CSL) lead by Dr. Jeongseob Ahn. My research interests include embedded learning system, mobile computing and healthcare applications. (email: ajm100@ajou.ac.kr) [[Google Scholar]](https://scholar.google.co.kr/citations?user=j1XDJ0MAAAAJ&hl=ko)
 
 
 ## Research Interests
 
-* Intelligent Systems
+* Intelligent Systems & Intelligent Internet of Things
   * Embedded learning system
   * Deep learning lightweight
-  * Reinforcement Learning for adaptive offloading
-* Mobile computing
+  * Collaborative Inference 
+* Mobile computing & application
   * Wearable device
   * Sensor data analysis
 * Healthcare application
   * Bio signal analysis
   * Predict symptoms from time-series data
   
-  
+## Research Projects
+
+* Research on Scalable and Efficient DNN Serving System for Heterogeneous Servers, NAVER Clova, 2020
+* Accurate Human Identification Using Embedded Cameras for Smart Factory Management, System R&D, 2020
+* Microscopic Diagnosis System Development Research Center, ITRC, 2018
+* Developing platform technology with fluorescent-pattern generating array using mobile devices and machine learning for VOC recognition, Ajou University, 2018
+* Identifying Unmet Requirements for Future Wearable Devices in Designing Autonomous Clinical Event Detection Applications, DGIST, 2017
+
 ## Education
 
 * Study for a Ph.D.'s degree in Computer Engineering; Ajou University (Feb 2017 - ) 
@@ -38,7 +45,8 @@ I received the B.Eng. degree in software and computer engineering from Ajou Univ
 * **Jungmo Ahn**, Hyungi Kim, Eunha Kim, JeongGil Ko. "VOCkit: A Low-Cost IoT Sensing Platform for Volatile Organic Compound Classification", *Ad Hoc Networks* (Under Review)
 * **Jungmo Ahn**, Sung Sik Lee, Kyu-Hyuk Lee, Heesung Do, and JeongGil Ko, "SafeFac: Video-based Smart Safety Monitoring forPreventing Industrial Work Accidents", *IEEE Transactions on Systems, Man, and Cybernetics: Systems* (Under Review)
 
-* **Jungmo Ahn**, Ho-Kyeong Ra, Hee Jung Yoon, Sang Hyuk Son, JeongGil Ko. "On-device Filter Design for Self-identifying Inaccurate Heart Rate Readings on Wrist-worn PPG Sensors", *IEEE Access*, 2020 (Accepted for Publication).
+--- 
+* **Jungmo Ahn**, Ho-Kyeong Ra, Hee Jung Yoon, Sang Hyuk Son, JeongGil Ko. "On-device Filter Design for Self-identifying Inaccurate Heart Rate Readings on Wrist-worn PPG Sensors", *IEEE Access*, 2020.
 * **Jungmo Ahn**, Huynh Nguyen Loc, Rajesh K. Balan, Youngki Lee, JeongGil Ko. "Finding Small-Bowel Lesions: Challenges in Endoscopy-Image-Based Learning Systems", *IEEE Computer, Special Issue on Mobile and Embedded Deep Learning*, 2018. 
 * **Jungmo Ahn**, JaeYeon Park, Donghwan Park, Jeongyeup Paek, JeongGil Ko. "Convolutional Neural Network-based Classification System Design with Compressed Wireless Sensor Network Images", *PLOS One*, 2018. 
 
@@ -60,3 +68,4 @@ I received the B.Eng. degree in software and computer engineering from Ajou Univ
 
 ## Awards and Honors
 * Global Ph.D. Fellowship, NRF, 2018 -
+  * Designing a Framework for Embedded Learning Systems
