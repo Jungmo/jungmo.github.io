@@ -20,14 +20,6 @@ I received the B.Eng. degree in software and computer engineering from Ajou Univ
   * Bio signal analysis
   * Predict symptoms from time-series data
   
-## Research Projects
-
-* Research on Scalable and Efficient DNN Serving System for Heterogeneous Servers, NAVER Clova, 2020
-* Accurate Human Identification Using Embedded Cameras for Smart Factory Management, System R&D, 2020
-* Microscopic Diagnosis System Development Research Center, ITRC, 2018
-* Developing platform technology with fluorescent-pattern generating array using mobile devices and machine learning for VOC recognition, Ajou University, 2018
-* Identifying Unmet Requirements for Future Wearable Devices in Designing Autonomous Clinical Event Detection Applications, DGIST, 2017
-
 ## Education
 
 * Study for a Ph.D.'s degree in Computer Engineering; Ajou University (Feb 2017 - ) 
@@ -38,6 +30,15 @@ I received the B.Eng. degree in software and computer engineering from Ajou Univ
 * Intern, LiveLabs in Singapore Management University ( Jan 2017 - Feb 2017 )
 * Intern, Korea Electronics Technology Institute (Jun 2016 - Aug 2016)
 * Intern, AEIS Laboratory (Jan 2016 - Feb 2017)
+
+## Research Projects
+
+* Research on Scalable and Efficient DNN Serving System for Heterogeneous Servers, NAVER Clova, 2020
+* Accurate Human Identification Using Embedded Cameras for Smart Factory Management, System R&D, 2020
+* Microscopic Diagnosis System Development Research Center, ITRC, 2018
+* Developing platform technology with fluorescent-pattern generating array using mobile devices and machine learning for VOC recognition, Ajou University, 2018
+* Identifying Unmet Requirements for Future Wearable Devices in Designing Autonomous Clinical Event Detection Applications, DGIST, 2017
+
 
 ## Journal Papers
 
