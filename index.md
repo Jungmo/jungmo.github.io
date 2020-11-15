@@ -44,7 +44,7 @@ I received the B.Eng. degree in software and computer engineering from Ajou Univ
 
 * Hyungi Kim, Sang-Kee Choi, **Jungmo Ahn** (co-first author), Hojeong Yu, Kyoungha Min, Changgi Hong, Ik-Soo Shin, Sanghee Lee, Hakho Lee, Hyungsoon Im, JeongGil Ko, Eunha Kim. "Kaleidoscopic Fluorescent Arrays for High-multiplexed Point-of-Care Chemical Sensing", *Sensors & Actuators, B: Chemical* (Under Review)
 * **Jungmo Ahn**, Hyungi Kim, Eunha Kim, JeongGil Ko. "VOCkit: A Low-Cost IoT Sensing Platform for Volatile Organic Compound Classification", *Ad Hoc Networks* (Under Review)
-* **Jungmo Ahn**, Sung Sik Lee, Kyu-Hyuk Lee, Heesung Do, and JeongGil Ko, "SafeFac: Video-based Smart Safety Monitoring forPreventing Industrial Work Accidents", *IEEE Transactions on Systems, Man, and Cybernetics: Systems* (Under Review)
+* **Jungmo Ahn**, Sung Sik Lee, Kyu-Hyuk Lee, Heesung Do, and JeongGil Ko, "SafeFac: Video-based Smart Safety Monitoring for Preventing Industrial Work Accidents", *IEEE Transactions on Systems, Man, and Cybernetics: Systems* (Under Review)
 
 --- 
 * **Jungmo Ahn**, Ho-Kyeong Ra, Hee Jung Yoon, Sang Hyuk Son, JeongGil Ko. "On-device Filter Design for Self-identifying Inaccurate Heart Rate Readings on Wrist-worn PPG Sensors", *IEEE Access*, 2020.
