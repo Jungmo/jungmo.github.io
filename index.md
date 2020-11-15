@@ -40,8 +40,8 @@ I received the B.Eng. degree in software and computer engineering from Ajou Univ
 * Identifying Unmet Requirements for Future Wearable Devices in Designing Autonomous Clinical Event Detection Applications, DGIST, 2017
 
 
-## Journal Papers [[Google Scholar profile]](https://scholar.google.co.kr/citations?user=j1XDJ0MAAAAJ&hl=ko)
-
+## Journal Papers 
+[[Google Scholar profile]](https://scholar.google.co.kr/citations?user=j1XDJ0MAAAAJ&hl=ko)
 * Hyungi Kim, Sang-Kee Choi, **Jungmo Ahn** (co-first author), Hojeong Yu, Kyoungha Min, Changgi Hong, Ik-Soo Shin, Sanghee Lee, Hakho Lee, Hyungsoon Im, JeongGil Ko, Eunha Kim. "Kaleidoscopic Fluorescent Arrays for High-multiplexed Point-of-Care Chemical Sensing", *Sensors & Actuators, B: Chemical* (Under Review)
 * **Jungmo Ahn**, Hyungi Kim, Eunha Kim, JeongGil Ko. "VOCkit: A Low-Cost IoT Sensing Platform for Volatile Organic Compound Classification", *Ad Hoc Networks* (Under Review)
 * **Jungmo Ahn**, Sung Sik Lee, Kyu-Hyuk Lee, Heesung Do, and JeongGil Ko, "SafeFac: Video-based Smart Safety Monitoring for Preventing Industrial Work Accidents", *IEEE Transactions on Systems, Man, and Cybernetics: Systems* (Under Review)
