@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-I received the B.Eng. degree in software and computer engineering from Ajou University, Suwon, South Korea, in 2017. I am a Ph.D. student in the Department of Artificial Intelligence at Ajou University. I am a member of the Embedded Inteligent System ([EIS](https://www.eis-lab.org/)) lead by Dr. JeongGil Ko. I am also a member of the Computer Systems Lab ([CSL](http://csl.ajou.ac.kr/)) lead by Dr. Jeongseob Ahn. My research interests include embedded learning system, intelligent IoT, mobile computing & application. (email: ajm100@ajou.ac.kr) [[Google Scholar]](https://scholar.google.co.kr/citations?user=j1XDJ0MAAAAJ&hl=ko)
+I received the B.Eng. degree in software and computer engineering from Ajou University, Suwon, South Korea, in 2017. I am a Ph.D. student in the Department of Artificial Intelligence at Ajou University. I am a member of the Embedded Inteligent System ([EIS](https://www.eis-lab.org/)) lead by Dr. JeongGil Ko. I am also a member of the Computer Systems Lab ([CSL](http://csl.ajou.ac.kr/)) lead by Dr. Jeongseob Ahn. My research interests include embedded learning system, intelligent IoT, mobile computing & application. (email: ajm100@ajou.ac.kr) 
 
 
 ## Research Interests
@@ -40,7 +40,7 @@ I received the B.Eng. degree in software and computer engineering from Ajou Univ
 * Identifying Unmet Requirements for Future Wearable Devices in Designing Autonomous Clinical Event Detection Applications, DGIST, 2017
 
 
-## Journal Papers
+## Journal Papers [[Google Scholar]](https://scholar.google.co.kr/citations?user=j1XDJ0MAAAAJ&hl=ko)
 
 * Hyungi Kim, Sang-Kee Choi, **Jungmo Ahn** (co-first author), Hojeong Yu, Kyoungha Min, Changgi Hong, Ik-Soo Shin, Sanghee Lee, Hakho Lee, Hyungsoon Im, JeongGil Ko, Eunha Kim. "Kaleidoscopic Fluorescent Arrays for High-multiplexed Point-of-Care Chemical Sensing", *Sensors & Actuators, B: Chemical* (Under Review)
 * **Jungmo Ahn**, Hyungi Kim, Eunha Kim, JeongGil Ko. "VOCkit: A Low-Cost IoT Sensing Platform for Volatile Organic Compound Classification", *Ad Hoc Networks* (Under Review)
