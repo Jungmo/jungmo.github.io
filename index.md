@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-I received the B.Eng. degree in software and computer engineering from Ajou University, Suwon, South Korea, in 2017. I am a Ph.D. student in the Department of Computer Engineering at Ajou University. I am a member of the Embedded Inteligent System (EIS) lead by Dr. JeongGil Ko. I am also a member of the Computer Systems Lab (CSL) lead by Dr. Jeongseob Ahn. My research interests include embedded learning system, mobile computing and healthcare applications. (email: ajm100@ajou.ac.kr) [[Google Scholar]](https://scholar.google.co.kr/citations?user=j1XDJ0MAAAAJ&hl=ko)
+I received the B.Eng. degree in software and computer engineering from Ajou University, Suwon, South Korea, in 2017. I am a Ph.D. student in the Department of Artificial Intelligence at Ajou University. I am a member of the Embedded Inteligent System ([EIS](https://www.eis-lab.org/)) lead by Dr. JeongGil Ko. I am also a member of the Computer Systems Lab ([CSL](http://csl.ajou.ac.kr/)) lead by Dr. Jeongseob Ahn. My research interests include embedded learning system, mobile computing and healthcare applications. (email: ajm100@ajou.ac.kr) [[Google Scholar]](https://scholar.google.co.kr/citations?user=j1XDJ0MAAAAJ&hl=ko)
 
 
 ## Research Interests
@@ -35,8 +35,8 @@ I received the B.Eng. degree in software and computer engineering from Ajou Univ
 
 * Research on Scalable and Efficient DNN Serving System for Heterogeneous Servers, NAVER Clova, 2020
 * Accurate Human Identification Using Embedded Cameras for Smart Factory Management, System R&D, 2020
-* Microscopic Diagnosis System Development Research Center, ITRC, 2018
 * Developing platform technology with fluorescent-pattern generating array using mobile devices and machine learning for VOC recognition, Ajou University, 2018
+* Microscopic Diagnosis System Development Research Center, ITRC, 2018
 * Identifying Unmet Requirements for Future Wearable Devices in Designing Autonomous Clinical Event Detection Applications, DGIST, 2017
 
 
