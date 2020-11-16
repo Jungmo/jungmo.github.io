@@ -43,12 +43,12 @@ I received the B.Eng. degree in software and computer engineering from Ajou Univ
 ## Journal Papers 
 [[Google Scholar profile]](https://scholar.google.co.kr/citations?user=j1XDJ0MAAAAJ&hl=ko)
 * Hyungi Kim, Sang-Kee Choi, **Jungmo Ahn** (co-first author), Hojeong Yu, Kyoungha Min, Changgi Hong, Ik-Soo Shin, Sanghee Lee, Hakho Lee, Hyungsoon Im, JeongGil Ko, Eunha Kim. "Kaleidoscopic Fluorescent Arrays for High-multiplexed Point-of-Care Chemical Sensing", *Sensors & Actuators, B: Chemical* (Under Review)
-* **Jungmo Ahn**, Hyungi Kim, Eunha Kim, JeongGil Ko. "VOCkit: A Low-Cost IoT Sensing Platform for Volatile Organic Compound Classification", *Ad Hoc Networks* (Under Review)
 * **Jungmo Ahn**, Sung Sik Lee, Kyu-Hyuk Lee, Heesung Do, and JeongGil Ko, "SafeFac: Video-based Smart Safety Monitoring for Preventing Industrial Work Accidents", *IEEE Transactions on Systems, Man, and Cybernetics: Systems* (Under Review)
 
 --- 
-* **Jungmo Ahn**, Ho-Kyeong Ra, Hee Jung Yoon, Sang Hyuk Son, JeongGil Ko. "On-device Filter Design for Self-identifying Inaccurate Heart Rate Readings on Wrist-worn PPG Sensors", *IEEE Access*, 2020.
-* **Jungmo Ahn**, Huynh Nguyen Loc, Rajesh K. Balan, Youngki Lee, JeongGil Ko. "Finding Small-Bowel Lesions: Challenges in Endoscopy-Image-Based Learning Systems", *IEEE Computer, Special Issue on Mobile and Embedded Deep Learning*, 2018. 
+* **Jungmo Ahn**, Hyungi Kim, Eunha Kim, JeongGil Ko. "VOCkit: A Low-Cost IoT Sensing Platform for Volatile Organic Compound Classification", *Ad Hoc Networks*, 2020 (Accepted for Publication). ***(JCR IF Top 25%)***
+* **Jungmo Ahn**, Ho-Kyeong Ra, Hee Jung Yoon, Sang Hyuk Son, JeongGil Ko. "On-device Filter Design for Self-identifying Inaccurate Heart Rate Readings on Wrist-worn PPG Sensors", *IEEE Access*, 2020. ***(JCR IF Top 25%)***
+* **Jungmo Ahn**, Huynh Nguyen Loc, Rajesh K. Balan, Youngki Lee, JeongGil Ko. "Finding Small-Bowel Lesions: Challenges in Endoscopy-Image-Based Learning Systems", *IEEE Computer, Special Issue on Mobile and Embedded Deep Learning*, 2018. ***(JCR IF Top 25%)***
 * **Jungmo Ahn**, JaeYeon Park, Donghwan Park, Jeongyeup Paek, JeongGil Ko. "Convolutional Neural Network-based Classification System Design with Compressed Wireless Sensor Network Images", *PLOS One*, 2018. 
 
 ## Conference Papers
@@ -69,4 +69,4 @@ I received the B.Eng. degree in software and computer engineering from Ajou Univ
 
 ## Awards and Honors
 * Global Ph.D. Fellowship, NRF, 2018 -
-  * Designing a Framework for Embedded Learning Systems
+  * Research project: Designing a Framework for Embedded Learning Systems
