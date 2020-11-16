@@ -8,3 +8,4 @@ markdown: kramdown
 exclude: ["README.md"]
 sass:
   style: compressed
+google_fonts: "Nanum+Gothic:400,700"
